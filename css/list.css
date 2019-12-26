@@ -1,0 +1,27 @@
+.my_gray{
+    background:linear-gradient(to bottom,#f0f0f0 0%, #e0e0e0 100%)
+}
+.my_input{
+    width:15%;
+    border:0;outline:0;
+    text-align:center;
+}
+.my_button{
+    width:1.5rem;height:1.5rem;
+    padding:0;
+    border:0;outline: 0;
+    font:bold 1rem ºÚÌå;
+    color:#fff;
+}
+.page-link{
+    border-radius:0.2rem;
+    padding:0.3rem 0.5rem;
+    background:transparent;
+    border:#999;
+}
+.page-link:hover{
+    boder:#0aa1ed;
+}
+.page-item+.page-item{
+    margin-left:0.4rem;
+}
