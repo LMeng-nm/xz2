@@ -1,9 +1,0 @@
-.breadcrumb-item + .breadcrumb-item:before{
-    content:">";
-}
-.breadcrumb-item{
-    color:#000;
-}
-.my_gray{
-    background:linear-gradient(to bottom,#f0f0f0 0%, #e0e0e0 100%)
-}
